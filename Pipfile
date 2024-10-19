@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-mesa = "*"
+mesa = "~=2.4"
 seaborn = "*"
 pandas = "*"
 
